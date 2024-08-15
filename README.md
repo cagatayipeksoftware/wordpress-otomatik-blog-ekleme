@@ -1,6 +1,6 @@
 # WordPress'e Otomatik Blog Ekleme Programı
 
-Bu Python programı, bir dizindeki `.docx` uzantılı Word dosyalarını okuyarak içeriklerini WordPress'te otomatik olarak blog yazısı olarak ekler. Blog yazıları, WordPress panelinde taslak olarak kaydedilir.
+Bu Python programını dijital pazarlama ajansında staj yaparken SEO için blog yapan arkadaşlara yardımcı olsun diye yazdım.Böylece 200 300 bloğu tek seferde girebilecekler,tarih seçeneği vesaire ekleyip genişletilebilir. bir dizindeki `.docx` uzantılı Word dosyalarını okuyarak içeriklerini WordPress'te otomatik olarak blog yazısı olarak ekler. Blog yazıları, WordPress panelinde taslak olarak kaydedilir.
 
 ## Özellikler
 
